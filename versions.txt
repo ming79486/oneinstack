@@ -1,0 +1,9 @@
+# newest software version
+nginx_ver=1.30.0
+openssl11_ver=3.6.1
+openssl_ver=3.6.1
+pcre2_ver=10.47
+jemalloc_ver=5.3.1
+
+# legacy PCRE is kept only as an explicit reference; Nginx uses PCRE2.
+pcre_ver=8.45
