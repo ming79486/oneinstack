@@ -1,7 +1,7 @@
 # newest software version
 nginx_ver=1.31.6
-openssl11_ver=4.0.1
-openssl_ver=4.0.1
+openssl11_ver=4.0.2
+openssl_ver=4.0.2
 pcre2_ver=10.48
 jemalloc_ver=5.3.1
 
